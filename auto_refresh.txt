@@ -1,0 +1,3 @@
+<script language="JavaScript" type="text/javascript">
+setTimeout("location.href = 'run_map.php'",10000); // milliseconds, so 10 seconds = 10000ms
+</script>
